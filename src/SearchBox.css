@@ -1,0 +1,6 @@
+.SearchBox {
+  width: 1250px;      /* required */
+  margin: 0 auto;    /* horizontally center */
+  text-align: center;
+  margin-bottom: 25px;
+}
